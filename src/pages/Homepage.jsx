@@ -2,8 +2,6 @@ import React from 'react'
 import { Blogs, Footer, Navbar } from "../components"
 
 const Homepage = ({ blogs }) => {
-    console.log("HomePage")
-    console.log(blogs)
 
     return (
         <div>
